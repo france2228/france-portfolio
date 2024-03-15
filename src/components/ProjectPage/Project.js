@@ -26,6 +26,7 @@ const Project = () => {
           <p>This mobile application was created as a final project in our subject CAPSTONE 401.</p>
           <form href="https://play.google.com/store/apps/details?id=com.kalma.capstonev12">
           <input  className="btn btn-s" type="submit" value="Submit" target="_blank" />
+          <input  className="btn btn-s" type="submit" value="Visit" target="_blank" />
           </form>
           </div>
       </section>
