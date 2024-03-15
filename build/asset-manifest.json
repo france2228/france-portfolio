@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6c9140a.css",
+    "main.js": "/static/js/main.569274db.js",
+    "static/media/samaniego-france-cv.pdf": "/static/media/samaniego-france-cv.e5a0016c89211bd6ea45.pdf",
+    "static/media/KALMALogo.png": "/static/media/KALMALogo.b25b1493423a21d3e939.png",
+    "static/media/wp.png": "/static/media/wp.709a24d0d9031a20e5bc.png",
+    "static/media/react.png": "/static/media/react.6bcffb56bd0efaa47767.png",
+    "static/media/xd.png": "/static/media/xd.7b4b5e44337846bb7eb4.png",
+    "static/media/sass.png": "/static/media/sass.7cdbf6b5889c42b3e490.png",
+    "static/media/php.png": "/static/media/php.943ac1d69b200be5b172.png",
+    "static/media/pr.png": "/static/media/pr.a175ffebba97fd85afa2.png",
+    "static/media/css.png": "/static/media/css.bee63b9e863f48d93bda.png",
+    "static/media/laravel.png": "/static/media/laravel.19d9675c2afa35cd0830.png",
+    "static/media/ps.png": "/static/media/ps.3e6972a59e4ecc44e53e.png",
+    "static/media/bt.png": "/static/media/bt.3c4e1a5d3a149087b144.png",
+    "static/media/figma.png": "/static/media/figma.46400ab8543f71a3650b.png",
+    "static/media/linkedin.png": "/static/media/linkedin.d8edc204779e4044c726.png",
+    "static/media/mi.png": "/static/media/mi.df964212bc9bfd102063.png",
+    "static/media/fb.png": "/static/media/fb.c2fb24ac896fcc483712.png",
+    "static/media/hq.png": "/static/media/hq.9d7362e45ef05662e856.png",
+    "static/media/js.png": "/static/media/js.266bd9fb2663dcc057b4.png",
+    "static/media/mysql.png": "/static/media/mysql.8ca52c25afffafaa83f1.png",
+    "index.html": "/index.html",
+    "main.c6c9140a.css.map": "/static/css/main.c6c9140a.css.map",
+    "main.569274db.js.map": "/static/js/main.569274db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6c9140a.css",
+    "static/js/main.569274db.js"
+  ]
+}
